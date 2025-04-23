@@ -1,4 +1,4 @@
-# E-Commerce-CRM-System
+# E-Commerce-ERP-System
 
 This side project was developed from 2019 and stiil upgrading.</br> 
 Mainly used for 3 e-commerce platform CRM data, like yahoo, ruten and shopee and coded in excel vba language.</br> 
